@@ -1,6 +1,6 @@
 🌍 Hola Mundo 2025
 
-👋 Bienvenido/a
+👋 Bienvenido Comunidad
 
 ¡Bienvenido a mi primer proyecto! Aquí comienza mi camino en el desarrollo web.
 Esta es una simple pero significativa versión de “Hola Mundo” en HTML, CSS y JavaScript, donde pongo en práctica lo que voy aprendiendo para convertir ideas en realidad.
